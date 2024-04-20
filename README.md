@@ -23,7 +23,7 @@ Vehicles using Koopman Operator](https://www.researchgate.net/publication/369737
 
 ### MMPK Framework
 
-![Framework](D:\MMPK-Deployment-Results\Figures\Framework_digram_brief.png)
+![Framework](Figures\Framework_digram_brief.png)
 
 The framework can be broken down into following process flows.</br>
 
@@ -48,7 +48,7 @@ The framework can be broken down into following process flows.</br>
 The following diagram presents pictorial representation for host of experimental stipulations for thorough
 validation of MMPK framework in simulation and hardware deployment settings.
 
-![Expsetup](D:\MMPK-Deployment-Results\Figures\Experimental_setup.png)
+![Expsetup](Figures\Experimental_setup.png)
 
 The experiments are divided into two sections:
 **Experiment I** for deployment in the simulation
