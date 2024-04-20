@@ -97,7 +97,7 @@ Thus, all the box and whisker plots are split in these 8 bins even where the num
 
 ### Results
 **Simulation deployment (Experiment I-A to I-D):**
-![ExpIA-IB](D:\MMPK-Deployment-Results\Figures\Experiment I-A_vs_Experiment I-B.png)
+![ExpIA-IB](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20I-A_vs_Experiment%20I-B.png)
 ![ExpIC-ID](D:\MMPK-Deployment-Results\Figures\Experiment I-C_vs_Experiment I-D.png)
 ![ExpIB-ID](D:\MMPK-Deployment-Results\Figures\Experiment I-B_vs_Experiment I-D.png)
 
