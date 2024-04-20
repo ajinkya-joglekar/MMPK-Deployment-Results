@@ -23,7 +23,7 @@ Vehicles using Koopman Operator](https://www.researchgate.net/publication/369737
 
 ### MMPK Framework
 
-![Framework](Figures\Framework_digram_brief.png)
+![Framework](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Framework_digram_brief.png)
 
 The framework can be broken down into following process flows.</br>
 
@@ -48,7 +48,7 @@ The framework can be broken down into following process flows.</br>
 The following diagram presents pictorial representation for host of experimental stipulations for thorough
 validation of MMPK framework in simulation and hardware deployment settings.
 
-![Expsetup](Figures\Experimental_setup.png)
+![Expsetup](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experimental_setup.png)
 
 The experiments are divided into two sections:
 **Experiment I** for deployment in the simulation
@@ -91,28 +91,28 @@ we have considered 8 models as a baseline for MMPK
 It means that the entire operational range of the vehicle is broken down into 8 discrete bins. 
 For each of the data points, curvature of instantaneous reference trajectory is captured through the motion planner and fit into one of the 8 bins of operation. 
 Thus, all the box and whisker plots are split in these 8 bins even where the number of models and their associated curvature bins of operation vary but are approximated with 8 reference bins to maintain consistency in comparison as represented visually in the figure below.
-![Test_methodology](D:\MMPK-Deployment-Results\Figures\Test_comparison_methodology.png)
+![Test_methodology](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Test_comparison_methodology.png)
 
 
 
 ### Results
 **Simulation deployment (Experiment I-A to I-D):**
 ![ExpIA-IB](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20I-A_vs_Experiment%20I-B.png)
-![ExpIC-ID](D:\MMPK-Deployment-Results\Figures\Experiment I-C_vs_Experiment I-D.png)
-![ExpIB-ID](D:\MMPK-Deployment-Results\Figures\Experiment I-B_vs_Experiment I-D.png)
+![ExpIC-ID](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20I-C_vs_Experiment%20I-D.png)
+![ExpIB-ID](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20I-B_vs_Experiment%20I-D.png)
 
 **Hardware deployment (Experiment II-A to II-D):**
-![ExpIIA-IIB](D:\MMPK-Deployment-Results\Figures\Experiment II-A_vs_Experiment II-B.png)
-![ExpIIC-IID](D:\MMPK-Deployment-Results\Figures\Experiment II-C_vs_Experiment II-D.png)
-![ExpIIB-IID](D:\MMPK-Deployment-Results\Figures\Experiment II-B_vs_Experiment II-D.png)
+![ExpIIA-IIB](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20II-A_vs_Experiment%20II-B.png)
+![ExpIIC-IID](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20II-C_vs_Experiment%20II-D.png)
+![ExpIIB-IID](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment%20II-B_vs_Experiment%20II-D.png)
 
 
 **Optimizing number of MMPK models:**
-![ExpID-6models-ID-8models](D:\MMPK-Deployment-Results\Figures\Experiment_I-D_6 models_vs_Experiment_I-D_8 models.png)
-![ExpID-8models-ID-12models](D:\MMPK-Deployment-Results\Figures\Experiment_I-D_8 models_vs_Experiment I-D_12 models.png)
-![ExpIID-8models-IID-12models](D:\MMPK-Deployment-Results\Figures\Experiment_II-D_8 models_vs_Experiment II-D_12 models.png)
+![ExpID-6models-ID-8models](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment_I-D_6%20models_vs_Experiment_I-D_8%20models.png)
+![ExpID-8models-ID-12models](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment_I-D_8%20models_vs_Experiment%20I-D_12%20models.png)
+![ExpIID-8models-IID-12models](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Experiment_II-D_8%20models_vs_Experiment%20II-D_12%20models.png)
 
 
 
 **Hardware deployment trajectory plot**
-![Traj_ff](D:\MMPK-Deployment-Results\Figures\Traj_freeze_frame_plots.png)
+![Traj_ff](https://github.com/ajinkya-joglekar/MMPK-Deployment-Results/blob/main/Figures/Traj_freeze_frame_plots.png)
